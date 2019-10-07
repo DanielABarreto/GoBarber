@@ -3,4 +3,7 @@ technologies used:
 express
 sucrase (dev)
 nodemon (dev)
-Docker
+docker
+eslint
+prettier
+sequelize
